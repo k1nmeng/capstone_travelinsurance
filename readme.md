@@ -1,4 +1,4 @@
-__Overview__
+# __Overview__
 
 This project showcases what I learned at the Vertical Institute's Data Analytics bootcamp in 2024. The program provided me with foundational skills in data cleaning 
 using Excel, data querying with SQL, and data visualization through Tableau.
